@@ -4,6 +4,13 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("Hola mundo!");
+        String nombre = "Mike";
+        saludoPersonalizado(nombre);
+
+
+    }
+
+    public static void saludoPersonalizado(String nombre){
+        System.out.println("Hola " + nombre + "!");
     }
 }
