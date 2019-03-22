@@ -8,6 +8,8 @@ public class Main {
         saludoPersonalizado(nombre);
 
         String hola = "Que pedo";
+        String amigos = " cachorros como estan?";
+        System.out.println(hola + amigos);
 
 
     }
