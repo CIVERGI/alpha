@@ -12,6 +12,7 @@ public class Main {
         System.out.println(hola + amigos);
 
 
+        System.out.println("Vamos a probar firebase madafackas!");
     }
 
     public static void saludoPersonalizado(String nombre){
