@@ -7,6 +7,8 @@ public class Main {
         String nombre = "Mike";
         saludoPersonalizado(nombre);
 
+        String hola = "Que pedo";
+
 
     }
 
